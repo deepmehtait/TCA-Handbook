@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktca_rules=self.webpackChunktca_rules||[]).push([[9115],{9699:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/TCA-Handbook/blog/tags/hola","allTagsPath":"/TCA-Handbook/blog/tags","count":1}')}}]);

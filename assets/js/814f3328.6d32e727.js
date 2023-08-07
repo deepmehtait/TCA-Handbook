@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktca_rules=self.webpackChunktca_rules||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/TCA-Handbook/blog/long-blog-post"},{"title":"First Blog Post","permalink":"/TCA-Handbook/blog/first-blog-post"}]}')}}]);
