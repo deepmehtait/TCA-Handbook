@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktca_rules=self.webpackChunktca_rules||[]).push([[5249],{5400:e=>{e.exports=JSON.parse('{"permalink":"/TCA-Handbook/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
