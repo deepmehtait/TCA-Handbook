@@ -25,7 +25,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/tca-tournaments">
+            to="/docs/category/tca-cricket-rules">
              TCA General Rules
           </Link>
         </div>
